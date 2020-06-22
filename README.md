@@ -9,6 +9,6 @@
 - Learn and improve skills, abilities, libs, dependencies and frameworks.
 
 ### Dificulties
-- My temporarily superficial knowledge and those tecnologies.
+- My temporarily superficial knowledge in those tecnologies.
 
 
