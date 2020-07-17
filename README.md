@@ -1,8 +1,5 @@
 # A FORM
 
-### First Design
-
-
 ## What is it?
 - This is a little project that I focus in learn new development skills about HTML5, CSS3 and JS.
 
@@ -16,11 +13,7 @@
 - My temporarily superficial knowledge and those tecnologies.
 
 ### Notes
-=======
-- My temporarily superficial knowledge in those tecnologies.
->>>>>>> d2f819741ff3e6c57acb093e8290eec63d91734f
 
 #### The math behind CPF validation
 
 - There's a public count of validation (brazilian)
-- 283
