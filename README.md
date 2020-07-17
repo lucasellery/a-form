@@ -11,4 +11,9 @@
 ### Dificulties
 - My temporarily superficial knowledge and those tecnologies.
 
+### Notes
 
+#### The math behind CPF validation
+
+- There's a public count of validation (brazilian)
+- 283
